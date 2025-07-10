@@ -1,0 +1,49 @@
+{
+  "albums": [
+    {
+      "id": 1,
+      "title": "Selamat Ulang Tahun",
+      "artist": "Nadin Amizah",
+      "price": 50000,
+      "cover": "https://upload.wikimedia.org/wikipedia/id/d/d4/Nadin_Amizah_-_Selamat_Ulang_Tahun.png"
+    },
+    {
+      "id": 2,
+      "title": "Ruang Tunggu",
+      "artist": "Fiersa Besari",
+      "price": 45000,
+      "cover": "https://i.scdn.co/image/ab67616d0000b27382a34f77044d95c55db6d82f"
+    },
+    {
+      "id": 3,
+      "title": "Menari Dengan Bayangan",
+      "artist": "Hindia",
+      "price": 60000,
+      "cover": "https://i.scdn.co/image/ab67616d0000b27338e9c2c9a779cd417a69e0a7"
+    }
+  ],
+  "forum": [
+    {
+      "id": 1,
+      "title": "Rekomendasi Album Folk?",
+      "content": "Ada rekomendasi album folk dengan lirik yang puitis?",
+      "author": "dewi_melody",
+      "likes": 12
+    },
+    {
+      "id": 2,
+      "title": "Pendapat tentang Nadin Amizah",
+      "content": "Lagu-lagunya bikin hati adem banget. Kalian punya favorit?",
+      "author": "rafli_birch",
+      "likes": 8
+    }
+  ],
+  "leaderboard": [
+    { "id": 1, "name": "Arum", "points": 120 },
+    { "id": 2, "name": "Fajar", "points": 110 },
+    { "id": 3, "name": "Nadya", "points": 105 }
+  ],
+  "users": [
+    { "id": 1, "name": "Demo User", "email": "demo@mail.com", "password": "123456" }
+  ]
+}
